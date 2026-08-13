@@ -6,6 +6,5 @@ POU_1.outVar = Device_0.ModuleBus.M1.O1
 
 
 POU_1.user2InVar = Device_0.ModuleBus.M0.I2
-POU_1.user2OutVar = Device_0.ModuleBus.M1.O2
 
 POU_1.user1InVar = Device_0.ModuleBus.M0.I3
