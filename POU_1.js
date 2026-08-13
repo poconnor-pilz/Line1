@@ -4,6 +4,7 @@ var POU_1 = {
     outVar: 0,
 
     user1InVar: 0,
+    user2InVar: 0,
 }
 
 module.exports = POU_1;
