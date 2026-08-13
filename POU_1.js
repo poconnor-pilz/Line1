@@ -1,5 +1,8 @@
 var POU_1 = {
+    
     inVar: 0,
+    inVarUser1: 0,
+
     outVar: 0,
 }
 
