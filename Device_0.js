@@ -1,23 +1,12 @@
-
+const PSSu_E_S_4DI = require('./PSSu_E_S_4DI');
+const PSSu_E_S_2DO_2 = require('./PSSu_E_S_2DO_2');
 
 var Device_0 = {
 
     ModuleBus: {
-        M0: {
-            I0: 0,
-            I1: 0,
-            I2: 0,
-            I3: 0
-        },
-        M1: {
-            O0: 0,
-            O1: 0,
-            O2: 0,
-            O3: 0,
-        },
+        M0: PSSu_E_S_4DI,
+        M1: PSSu_E_S_2DO_2
     }
-
-
 }
 
 module.exports = Device_0;
