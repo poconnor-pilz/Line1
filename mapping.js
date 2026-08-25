@@ -3,4 +3,5 @@ const POU_1 = require('./POU_1');
 
 POU_1.inVar = Device_0.ModuleBus.M0.I1
 POU_1.outVar = Device_0.ModuleBus.M1.O1
-
+POU_1.user1In = Device_0.ModuleBus.M0.I2
+POU_1.user1Out = Device_0.ModuleBus.M1.O0
